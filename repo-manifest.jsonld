@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/agronholm/bladerunner/commit/2f9a0c464090e23c92a29747fd20d7df5b770c08",
       "git:hexsha": "2f9a0c464090e23c92a29747fd20d7df5b770c08",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/agronholm/bladerunner/commit/cabbb2f96c4ad143c9cbccbd97fd1d0d44578560",
